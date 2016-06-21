@@ -1,16 +1,16 @@
-layout_spectrum: 0.6089474849868566
-typography_spectrum: 0.24157662852667272
+layout_spectrum: 0.9707066868431866
+typography_spectrum: 0.8553607780486345
 color:
-  brandStrength: 0.5284105530008674
-  lightness: 0.057270279387012124
-  saturation: 0.6556000707205385
-  rhythmicContrast: 0.37326418538577855
+  brandStrength: 0.1676886968780309
+  lightness: 0.4846910056658089
+  saturation: 0.829696855507791
+  rhythmicContrast: 0.5640339392703027
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: intact delight
 author:
   name: Simone Favarin
