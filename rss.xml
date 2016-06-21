@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[intact delight]]></title>
         <description><![CDATA[intact delight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/intact-delight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 20:55:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 21:09:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/intact-delight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from simone favarin (@simonefavarin). Airlite Digital Communication Manager @ Airlite (EMEA/LATAM/APAC) - Co-Founder of tNotice S.p.A. Author of Visual Connexion. Torino</p>]]></description>
+            <link>https://twitter.com/simonefavarin</link>
+            <guid isPermaLink="false">8599394d-3db5-4c18-a9a5-decf7c0c5696</guid>
+            <pubDate>Tue, 21 Jun 2016 21:09:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simone Favarin is Digital Communication Manager @ Airlite (AM Technology Ltd.) and a Co-Founder of tNotice S.p.A.]]></title>
             <description><![CDATA[<article><h1>Simone Favarin is Digital Communication Manager @ Airlite (AM Technology Ltd.) and a Co-Founder of tNotice S.p.A.</h1><p>He's an executive with experience within diverse service-oriented industries with 12 year track record of success providing the vision, strategy, execution (UI, AI, Digital Management) to improve digital operations, grow revenue and enhance position in highly competitive markets under new media change.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f41098ac-c21f-4f47-933b-a47aa5db079e.jpg"></article>]]></description>
