@@ -14,8 +14,8 @@ inLanguage: it
 app_links: []
 isBasedOnUrl: 'https://it.linkedin.com/in/phate'
 title: Simone Favarin | LinkedIn
-datePublished: '2016-06-21T21:19:51.660Z'
-dateModified: '2016-06-21T21:18:12.574Z'
+datePublished: '2016-06-21T21:19:54.876Z'
+dateModified: '2016-06-21T20:59:20.096Z'
 starred: false
 sourcePath: _posts/2016-06-21-simone-favarin-or-linkedin.md
 inFeed: true
