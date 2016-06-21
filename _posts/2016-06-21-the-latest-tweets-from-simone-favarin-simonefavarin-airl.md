@@ -29,8 +29,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/simonefavarin'
-datePublished: '2016-06-21T21:09:18.550Z'
-dateModified: '2016-06-21T21:06:44.283Z'
+datePublished: '2016-06-21T21:19:58.029Z'
+dateModified: '2016-06-21T21:06:45.828Z'
 title: ''
 starred: false
 sourcePath: _posts/2016-06-21-the-latest-tweets-from-simone-favarin-simonefavarin-airl.md
